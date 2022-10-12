@@ -5,6 +5,6 @@
 📈 GitHub Stats
 
 <div style="display: flex; flex-direction: row; justify-content: space-between">
- <img width="50%" class="img" src="https://github-readme-stats.vercel.app/api?username=nguyenmao2101&show_icons=true" />
- <img width="42%" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenmao2101&layout=compact" />
+ <img width="50%" class="img" src="https://github-readme-stats.vercel.app/api?username=XnfiniteD&show_icons=true" />
+ <img width="42%" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XnfiniteD&layout=compact" />
 </div>
